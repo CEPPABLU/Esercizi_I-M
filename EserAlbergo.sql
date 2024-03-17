@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS Recensione;
 DROP TABLE IF EXISTS Prenotazione;
 DROP TABLE IF EXISTS Cliente;
 DROP TABLE IF EXISTS Camera;
@@ -9,14 +10,15 @@ CREATE TABLE Albergo(
 	albergoID INT PRIMARY KEY IDENTITY(1,1),
 	nome VARCHAR(200) NOT NULL,
 	indirizzo VARCHAR(200) NOT NULL,
-	valutazione INT NOT NULL CHECK (valutazione BETWEEN 1 AND 5)
+	UNIQUE(nome,indirizzo),
+	stelle_albergo INT NOT NULL CHECK (stelle_albergo BETWEEN 1 AND 5)
 );
 
 CREATE TABLE Facilities (
 	facilitiesID INT PRIMARY KEY IDENTITY(1,1),
-	nome VARCHAR(200) NOT NULL CHECK (nome IN('Piscina', 'Palestra','Spa')),
+	nome VARCHAR(200) NOT NULL CHECK (nome IN('Piscina','Palestra','Spa')),
 	descrizione VARCHAR(250) NOT NULL,
-	orari TIME NOT NULL, 
+	orari TEXT NOT NULL, 
 	albergoRIF INT NOT NULL,
 	FOREIGN KEY(albergoRIF) REFERENCES Albergo (albergoID) ON DELETE CASCADE,
 	UNIQUE(albergoRIF,facilitiesID)
@@ -37,7 +39,7 @@ CREATE TABLE Camera (
 	cameraID INT PRIMARY KEY IDENTITY(1,1),
 	num_un INT NOT NULL,
 	tipo VARCHAR(200) NOT NULL,
-	cap_max INT NOT NULL CHECK (cap_max < 10),
+	cap_max INT NOT NULL CHECK ((cap_max >= 0) AND (cap_max<10)),
 	tariffa DECIMAL(10,2) NOT NULL,
 	albergoRIF INT NOT NULL,
 	FOREIGN KEY(albergoRIF) REFERENCES Albergo (albergoID) ON DELETE CASCADE,
@@ -49,6 +51,7 @@ CREATE TABLE Cliente (
 	nome VARCHAR(200) NOT NULL,
 	cognome VARCHAR(200) NOT NULL,
 	telefono VARCHAR(200) NOT NULL,
+	-- Possibilità di inserire il Cod_Fis
 );
 
 CREATE TABLE Prenotazione (
@@ -56,14 +59,24 @@ CREATE TABLE Prenotazione (
 	data_checkin DATE NOT NULL,
 	data_checkout DATE NOT NULL,
 	CHECK (data_checkin < data_checkout),
-	clienteRIF INT NOT NULL,
+	clienteRIF INT,
 	cameraRIF INT NOT NULL,
-	FOREIGN KEY(clienteRIF) REFERENCES Cliente (clienteID) ON DELETE CASCADE,
+	FOREIGN KEY(clienteRIF) REFERENCES Cliente (clienteID) ON DELETE SET NULL,
 	FOREIGN KEY(cameraRIF) REFERENCES Camera (cameraID) ON DELETE CASCADE,
 	UNIQUE(data_checkin, data_checkout, cameraRIF, clienteRIF)
+	-- Risolviamo con un processo
 );
 
-INSERT INTO Albergo(nome, indirizzo, valutazione) VALUES
+CREATE TABLE Recensione(
+	recensioneID INT PRIMARY KEY IDENTITY(1,1),
+	valutazione INT CHECK (valutazione BETWEEN 1 AND 5),
+	descrizione TEXT,
+	prenotazioneRIF INT NOT NULL,
+	FOREIGN KEY (prenotazioneRIF) REFERENCES Prenotazione(prenotazioneID) ON DELETE CASCADE
+	-- Verificare se la recensione può essere inserita a fine del soggiorno (checkout riempito)
+);
+
+INSERT INTO Albergo(nome, indirizzo, stelle_albergo) VALUES
 	('Hotel Vilòn', 'Via Francesco De Sanctis, 8', 5),
 	('J.K. Place Roma', 'Via di Monte Oro 30', 3),
 	('Portrait Roma', 'Via di Priscilla 42', 4),
@@ -72,7 +85,9 @@ INSERT INTO Albergo(nome, indirizzo, valutazione) VALUES
 INSERT INTO Facilities(nome, descrizione, orari, albergoRIF) VALUES
 	('Piscina', 'Piscina con lettini e ombrelloni', '10:00:00', 1),
 	('Palestra', 'Palestra attrezzata con macchinari per esercizi cardio e pesistica', '08:00:00', 3), 
-	('Spa', 'Spa con sala sensitiva', '09:00:00', 4);
+	('Spa', 'Spa con sala sensitiva', '09:00:00', 4),
+	('Spa', 'Spa con sala sensitiva', '09:00:00', 2);
+	
 
 INSERT INTO Dipendente (nome, cognome, posizione, telefono, albergoRIF) VALUES
 	('Mario', 'Rossi', 'Manager', '3471234567', 3),
@@ -142,22 +157,106 @@ INSERT INTO Prenotazione (data_checkin, data_checkout, clienteRIF, cameraRIF) VA
 	('2008-12-31', '2009-01-10', 3, 1),  
 	('2024-03-25', '2024-03-30', 4, 3),  
 	('2024-03-19', '2024-03-24', 5, 4),  
-	('2024-03-21', '2024-03-26', 6, 2),  
+	('2024-03-17', '2024-03-31', 6, 2),  
 	('2024-03-23', '2024-03-28', 7, 1),  
 	('2024-03-17', '2024-03-22', 8, 5),  
 	('2024-03-20', '2024-03-25', 9, 3),  
 	('2024-03-24', '2024-03-29', 10, 4); 
 
-SELECT * FROM Albergo;
-SELECT * FROM Facilities;
-SELECT * FROM Dipendente;
-SELECT * FROM Camera;
-SELECT * FROM Prenotazione;
-SELECT * FROM Cliente;
+INSERT INTO Recensione (valutazione, descrizione, prenotazioneRIF) VALUES
+	(3, 'Posto brutto', 3),
+	(4, 'Posto bellissimo', 8),
+	(5, 'Posto fantasmagorico', 5),
+	(1, 'Posto orrendo', 3);
 
-SELECT * 
-	FROM Cliente
-	JOIN Prenotazione ON Cliente.clienteID = Prenotazione.clienteRIF
-	JOIN Camera ON Prenotazione.cameraRIF = Camera.cameraID
-	JOIN Albergo ON Camera.cameraID = Albergo.albergoID
-	--WHERE cognome = 'Smith';
+--SELECT * FROM Albergo;
+--SELECT * FROM Facilities;
+--SELECT * FROM Dipendente;
+--SELECT * FROM Camera;
+--SELECT * FROM Prenotazione;
+--SELECT * FROM Cliente;
+--SELECT * FROM Recensione;
+
+--SELECT * 
+--	FROM Cliente
+--	JOIN Prenotazione ON Cliente.clienteID = Prenotazione.clienteRIF
+--	JOIN Camera ON Prenotazione.cameraRIF = Camera.cameraID
+--	JOIN Albergo ON Camera.albergoRIF = Albergo.albergoID
+--	--WHERE cognome = 'Smith';
+----
+--CREATE VIEW albergoConRelativiClienti AS
+--	SELECT al.nome AS 'Albergo', Cliente.nome + ' ' + Cliente.cognome AS 'Nominativo'
+--		FROM Albergo al
+--		JOIN Camera ON al.albergoID = Camera.albergoRIF
+--		JOIN Prenotazione ON camera.cameraID = Prenotazione.cameraRIF
+--		JOIN Cliente ON Prenotazione.clienteRIF = Cliente.clienteID; 
+--		--WHERE cognome = 'Smith';
+
+--CREATE VIEW albergoGeneraleRelativiClienti AS
+--	SELECT al.*, Cliente.nome + ' ' + Cliente.cognome AS 'Nominativo'
+--		FROM Albergo al
+--		JOIN Camera ON al.albergoID = Camera.albergoRIF
+--		JOIN Prenotazione ON camera.cameraID = Prenotazione.cameraRIF
+--		JOIN Cliente ON Prenotazione.clienteRIF = Cliente.clienteID; 
+
+
+--SELECT * FROM albergoConRelativiClienti;
+--SELECT * FROM albergoGeneraleRelativiClienti;
+
+-- Voglio una view che mi visualizzi il nome dell'albergo e la media delle valutazioni
+DROP VIEW MediaRecensioneAlberghi;
+CREATE VIEW MediaRecensioneAlberghi AS 
+	Select *
+		FROM Recensione
+		JOIN Prenotazione ON Recensione.prenotazioneRIF = Prenotazione.prenotazioneID
+		JOIN Camera ON Prenotazione.cameraRIF = Camera.cameraID
+		JOIN Albergo ON Camera.albergoRIF = Albergo.albergoID;
+
+DROP VIEW MediaRecensioneAlberghiVal;
+CREATE VIEW MediaRecensioneAlberghiVal AS 
+	Select *
+		FROM Albergo
+		JOIN Camera ON Albergo.albergoID = Camera.albergoRIF
+		JOIN Prenotazione ON Camera.cameraID = Prenotazione.cameraRIF
+		JOIN Recensione ON Prenotazione.prenotazioneID = Recensione.prenotazioneRIF
+		JOIN Cliente ON Prenotazione.clienteRIF = Cliente.clienteID;
+
+SELECT * FROM MediaRecensioneAlberghi;
+SELECT * FROM MediaRecensioneAlberghiVal;
+
+--Sull'esercizio degli alberghi, permettere la prenotazione solo tramite SP ed evitare che la prenotazione ne sovrasti una già attiva su una stanza.
+
+	
+SELECT * FROM Albergo
+	JOIN Camera ON Albergo.albergoID = Camera.albergoRIF
+	JOIN Prenotazione ON Camera.cameraID = Prenotazione.cameraRIF;
+
+DECLARE @dataIngresso DATE ='2024-03-18'
+DECLARE @dataUscita DATE ='2024-03-22'
+DECLARE @cameraRIF INT = 1
+DECLARE @contatore INT = 0
+
+
+SELECT @contatore = COUNT(*)
+	FROM Prenotazione 
+	WHERE (data_checkin <= @dataIngresso AND data_checkin >= @dataUscita)
+		OR(data_checkin <= @dataUscita AND data_checkout >= @dataUscita);
+
+IF @contatore > 0 
+	BEGIN
+		PRINT 'Non possibile inserimento (disse il robot)'
+	END
+	BEGIN
+		PRINT 'Inserimento effettuato'
+	END
+END
+
+
+
+
+
+CREATE PROCEDURE CheckStanze
+	@data_checkin DATE,
+	@data_checkout DATE,
+	@clienteRIF INT,
+	@cameraRIF INT,
