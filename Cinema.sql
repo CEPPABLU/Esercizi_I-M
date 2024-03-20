@@ -147,7 +147,8 @@ CREATE VIEW TotalEarningsPerMovie AS
 	
 DROP VIEW RecentReviews;
 CREATE VIEW RecentReviews AS
-		SELECT Movie.Title, Review.Rating, ReviewText, ReviewDate FROM Movie
+		SELECT Movie.Title, Review.Rating, ReviewText, ReviewDate 
+		FROM Movie
 		JOIN Review ON Movie.MovieID = Review.MovieID;
 
 -- View per vedere i film in programmazione
@@ -250,7 +251,10 @@ AS
 BEGIN
 	BEGIN TRY
 		BEGIN TRANSACTION
-			SELECT TicketID, CustomerID FROM Ticket JOIN Showtime ON Ticket.ShowtimeID = Showtime.ShowtimeID WHERE Ticket.CustomerID = @CustomerID AND Showtime.MovieID = @MovieID
+			SELECT TicketID, CustomerID 
+			FROM Ticket 
+			JOIN Showtime ON Ticket.ShowtimeID = Showtime.ShowtimeID 
+			WHERE Ticket.CustomerID = @CustomerID AND Showtime.MovieID = @MovieID
 				IF @@ROWCOUNT = 0
 					THROW 50002, 'Cliente non presente', 1
 				ELSE
