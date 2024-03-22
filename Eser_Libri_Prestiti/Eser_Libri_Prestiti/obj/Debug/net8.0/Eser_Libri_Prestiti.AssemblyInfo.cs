@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eser_Libri_Prestiti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a88a4403c57da5d76978e8542962fab223195b59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9ffe255e6ab3028bd6e44f4c114c128d608fc55")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eser_Libri_Prestiti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eser_Libri_Prestiti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

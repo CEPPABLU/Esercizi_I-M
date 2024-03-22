@@ -8,7 +8,7 @@ namespace Eser_Libri_Prestiti.DAL
 {
     internal interface IDAL<T>
     {
-        T GetById(int id);
+        T? GetById(int id);
         List<T> GetAll();
         bool Insert(T t);
         bool Update(T t);

@@ -8,21 +8,29 @@ namespace Eser_Libri_Prestiti.Models
 {
     internal class Prestito
     {
-           public int Id { get; set; }
-           public string? DataPrestito { get; set; }
-           public string? FinePrestito { get; set; }           
-           public int UtenteRIF {  get; set; }
-           public int LibroRIF {  get; set; }
+        public int Id { get; set; }
+        public string? CodPres { get; set; }
+        public DateTime? DataPrestito { get; set; }
+        public DateTime? FinePrestito { get; set; }
+        public Libro? libroCoinvolto {  get; set; }
+        public Utente? utenteCoinvolto { get; set; }
 
         public Prestito() { }
 
-        public Prestito(int Id, string? DataPrestito, string? FinePrestito, int UtenteRIF, int LibroRIF)
+        public Prestito(string? CodPres, DateTime? DataPrestito, DateTime? FinePrestito Libro? libroCoinvolto, Utente? utenteCoinvolto)
         {
-            this.Id = Id;
+            this.CodPres = CodPres;
             this.DataPrestito = DataPrestito;
             this.FinePrestito = FinePrestito;
-            this.UtenteRIF = UtenteRIF;
-            this.LibroRIF = LibroRIF;
+            Libro = LibroCoinvolto;
+            Utente = UtenteCoinvolto;
+        }
+        public Prestito(int Id, string? CodPres, DateTime? DataPrestito, DateTime? FinePrestito)
+        {
+            this.Id = Id;
+            this.CodPres = CodPres;
+            this.DataPrestito = DataPrestito;
+            this.FinePrestito = FinePrestito;
         }
     }
 }

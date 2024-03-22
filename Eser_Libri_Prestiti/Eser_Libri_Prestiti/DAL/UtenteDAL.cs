@@ -34,7 +34,7 @@ namespace Eser_Libri_Prestiti.DAL
             throw new NotImplementedException();
         }
 
-        public Utente GetById(int id)
+        public Utente? GetById(int id)
         {
             throw new NotImplementedException();
         }

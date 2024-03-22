@@ -5,21 +5,27 @@ DROP TABLE IF EXISTS Utente
 CREATE TABLE Utente (
     utenteID INT PRIMARY KEY IDENTITY(1,1),
     nome NVARCHAR(100) NOT NULL,
-    cognome NVARCHAR(100) NOT NULL ,
-    mail NVARCHAR(100) NOT NULL
+    cognome NVARCHAR(100) NOT NULL,
+    mail NVARCHAR(100),
+	codiceUtente VARCHAR(50) NOT NULL UNIQUE,
+	deleted DATETIME						-- SOFT DELETE
 );
 CREATE TABLE Libro (
     libroID INT PRIMARY KEY IDENTITY(1,1),
     titolo NVARCHAR(100) NOT NULL,
-    anno_pubblicazione DATE NOT NULL,
-    disp BIT NOT NULL
+    annoPub INT NOT NULL,
+    isDisp BIT DEFAULT 1,
+	isbn VARCHAR(50) NOT NULL UNIQUE,
+	deleted DATETIME
 );
 CREATE TABLE Prestito (
     prestitoID INT PRIMARY KEY IDENTITY(1,1),
-    data_prestito DATETIME,
-    data_ritorno DATETIME,
+    dataPres DATETIME DEFAULT CURRENT_TIMESTAMP,
+    dataRit DATETIME,
 	utenteRIF INT NOT NULL,
 	libroRIF INT NOT NULL,
-	FOREIGN KEY (utenteRIF) REFERENCES Utente(utenteID) ON DELETE CASCADE,
-	FOREIGN KEY (libroRIF) REFERENCES Libro(libroID) ON DELETE CASCADE
+	codicePres VARCHAR(50) NOT NULL UNIQUE,
+	FOREIGN KEY (utenteRIF) REFERENCES Utente(utenteID),
+	FOREIGN KEY (libroRIF) REFERENCES Libro(libroID),
+	deleted DATETIME
 );

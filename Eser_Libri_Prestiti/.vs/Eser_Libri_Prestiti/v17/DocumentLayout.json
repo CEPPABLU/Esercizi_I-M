@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\dal\\librodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\dal\\prestitodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\utilities\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\dal\\utentedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_libri_prestiti\\eser_libri_prestiti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A956C8E-D3E1-40F9-B6BC-FC46CAB9A705}|Eser_Libri_Prestiti\\Eser_Libri_Prestiti.csproj|solutionrelative:eser_libri_prestiti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,34 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDAL.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\IDAL.cs",
-              "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\DAL\\IDAL.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\IDAL.cs",
-              "RelativeToolTip": "Eser_Libri_Prestiti\\DAL\\IDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:14:34.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Utilities\\Config.cs",
-              "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\Utilities\\Config.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Utilities\\Config.cs",
-              "RelativeToolTip": "Eser_Libri_Prestiti\\Utilities\\Config.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T15:19:03.874Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
@@ -86,98 +60,124 @@
               "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\appSettings.json",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\appSettings.json",
               "RelativeToolTip": "Eser_Libri_Prestiti\\appSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-20T15:17:04.514Z",
+              "WhenOpened": "2024-03-21T09:58:47.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IDAL.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\IDAL.cs",
+              "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\DAL\\IDAL.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\IDAL.cs",
+              "RelativeToolTip": "Eser_Libri_Prestiti\\DAL\\IDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:14:34.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Utilities\\Config.cs",
+              "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\Utilities\\Config.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Utilities\\Config.cs",
+              "RelativeToolTip": "Eser_Libri_Prestiti\\Utilities\\Config.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:19:03.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PrestitoDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\PrestitoDAL.cs",
               "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\DAL\\PrestitoDAL.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\PrestitoDAL.cs",
               "RelativeToolTip": "Eser_Libri_Prestiti\\DAL\\PrestitoDAL.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwAIAAAANAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwCQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:14:22.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Prestito.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Models\\Prestito.cs",
               "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\Models\\Prestito.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Models\\Prestito.cs",
               "RelativeToolTip": "Eser_Libri_Prestiti\\Models\\Prestito.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:14:08.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Utente.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Models\\Utente.cs",
               "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\Models\\Utente.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Models\\Utente.cs",
               "RelativeToolTip": "Eser_Libri_Prestiti\\Models\\Utente.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAABCAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wBEAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:13:33.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LibroDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\LibroDAL.cs",
               "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\DAL\\LibroDAL.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\LibroDAL.cs",
               "RelativeToolTip": "Eser_Libri_Prestiti\\DAL\\LibroDAL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADIAAABIAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:08:36.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Program.cs",
               "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\Program.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Program.cs",
               "RelativeToolTip": "Eser_Libri_Prestiti\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T14:56:39.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\Models\\Libro.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\Models\\Libro.cs",
               "RelativeToolTip": "Eser_Libri_Prestiti\\Models\\Libro.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBsAAAAhAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:13:57.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "UtenteDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\UtenteDAL.cs",
               "RelativeDocumentMoniker": "Eser_Libri_Prestiti\\DAL\\UtenteDAL.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Libri_Prestiti\\Eser_Libri_Prestiti\\DAL\\UtenteDAL.cs",
               "RelativeToolTip": "Eser_Libri_Prestiti\\DAL\\UtenteDAL.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAAADQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T15:13:16.279Z",
               "EditorCaption": ""

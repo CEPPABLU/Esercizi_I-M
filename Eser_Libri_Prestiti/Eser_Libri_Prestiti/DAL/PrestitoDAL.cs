@@ -34,7 +34,7 @@ namespace Eser_Libri_Prestiti.DAL
             throw new NotImplementedException();
         }
 
-        public Prestito GetById(int id)
+        public Prestito? GetById(int id)
         {
             throw new NotImplementedException();
         }
@@ -49,8 +49,8 @@ namespace Eser_Libri_Prestiti.DAL
                 sqlCommand.CommandText = "INSERT INTO Prestito(data_prestito, data_ritorno, utenteRIF, libroRIF) VALUES (@datPre, @datRit, @utRIF, @libRIF)";
                 sqlCommand.Parameters.AddWithValue("@datPre", t.DataPrestito);
                 sqlCommand.Parameters.AddWithValue("@datRit", t.FinePrestito);
-                sqlCommand.Parameters.AddWithValue("@utRIF", t.UtenteRIF);
-                sqlCommand.Parameters.AddWithValue("@libRIF", t.LibroRIF);
+                //sqlCommand.Parameters.AddWithValue("@utRIF", t.UtenteRIF);
+                //sqlCommand.Parameters.AddWithValue("@libRIF", t.LibroRIF);
 
                 try
                 {

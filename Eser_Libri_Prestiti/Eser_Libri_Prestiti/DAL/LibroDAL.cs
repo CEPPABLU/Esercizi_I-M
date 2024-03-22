@@ -33,7 +33,7 @@ namespace Eser_Libri_Prestiti.DAL
             throw new NotImplementedException();
         }
 
-        public Libro GetById(int id)
+        public Libro? GetById(int id)
         {
             throw new NotImplementedException();
         }

@@ -1,0 +1,6 @@
+C:\Users\utente\Desktop\Esercitazioni\Eser_Libri_Prestiti\Eser_Libri_Prestiti\obj\Debug\net8.0\Eser_Libri_Prestiti.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\Esercitazioni\Eser_Libri_Prestiti\Eser_Libri_Prestiti\obj\Debug\net8.0\Eser_Libri_Prestiti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utente\Desktop\Esercitazioni\Eser_Libri_Prestiti\Eser_Libri_Prestiti\obj\Debug\net8.0\Eser_Libri_Prestiti.AssemblyInfoInputs.cache
+C:\Users\utente\Desktop\Esercitazioni\Eser_Libri_Prestiti\Eser_Libri_Prestiti\obj\Debug\net8.0\Eser_Libri_Prestiti.AssemblyInfo.cs
+C:\Users\utente\Desktop\Esercitazioni\Eser_Libri_Prestiti\Eser_Libri_Prestiti\obj\Debug\net8.0\Eser_Libri_Prestiti.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Esercitazioni\Eser_Libri_Prestiti\Eser_Libri_Prestiti\obj\Debug\net8.0\Eser_Libri_Prestiti.sourcelink.json
