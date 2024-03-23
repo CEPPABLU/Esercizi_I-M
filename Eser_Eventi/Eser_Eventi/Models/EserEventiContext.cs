@@ -29,11 +29,11 @@ public partial class EserEventiContext : DbContext
     {
         modelBuilder.Entity<Evento>(entity =>
         {
-            entity.HasKey(e => e.EventoId).HasName("PK__Evento__DE07229C929ECF34");
+            entity.HasKey(e => e.EventoId).HasName("PK__Evento__DE07229C35018B08");
 
             entity.ToTable("Evento");
 
-            entity.HasIndex(e => new { e.DataOra, e.Luogo }, "UQ__Evento__88D3CFE5255BCB8F").IsUnique();
+            entity.HasIndex(e => new { e.DataOra, e.Luogo }, "UQ__Evento__88D3CFE5E308BA95").IsUnique();
 
             entity.Property(e => e.EventoId).HasColumnName("eventoID");
             entity.Property(e => e.Capacita).HasColumnName("capacita");
@@ -55,11 +55,11 @@ public partial class EserEventiContext : DbContext
 
         modelBuilder.Entity<Partecipante>(entity =>
         {
-            entity.HasKey(e => e.PartecipanteId).HasName("PK__Partecip__59BAFC0E26E1D508");
+            entity.HasKey(e => e.PartecipanteId).HasName("PK__Partecip__59BAFC0E46414971");
 
             entity.ToTable("Partecipante");
 
-            entity.HasIndex(e => new { e.Biglietto, e.EventoRif }, "UQ__Partecip__37B111205C553AA5").IsUnique();
+            entity.HasIndex(e => new { e.Biglietto, e.EventoRif }, "UQ__Partecip__37B111200EFB20BD").IsUnique();
 
             entity.Property(e => e.PartecipanteId).HasColumnName("partecipanteID");
             entity.Property(e => e.Biglietto)
@@ -82,12 +82,12 @@ public partial class EserEventiContext : DbContext
             entity.HasOne(d => d.EventoRifNavigation).WithMany(p => p.Partecipantes)
                 .HasForeignKey(d => d.EventoRif)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Partecipa__event__44FF419A");
+                .HasConstraintName("FK__Partecipa__event__4E88ABD4");
         });
 
         modelBuilder.Entity<Risorsa>(entity =>
         {
-            entity.HasKey(e => e.RisorsaId).HasName("PK__Risorsa__31473C99727D6F84");
+            entity.HasKey(e => e.RisorsaId).HasName("PK__Risorsa__31473C99FEFE760E");
 
             entity.ToTable("Risorsa");
 
@@ -112,7 +112,7 @@ public partial class EserEventiContext : DbContext
             entity.HasOne(d => d.EventoRifNavigation).WithMany(p => p.Risorsas)
                 .HasForeignKey(d => d.EventoRif)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Risorsa__eventoR__47DBAE45");
+                .HasConstraintName("FK__Risorsa__eventoR__5165187F");
         });
 
         OnModelCreatingPartial(modelBuilder);
