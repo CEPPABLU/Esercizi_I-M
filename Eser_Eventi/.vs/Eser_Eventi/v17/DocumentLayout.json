@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\risorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\risorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,9 +33,13 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 368,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 438,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -46,8 +50,7 @@
               "RelativeToolTip": "Eser_Eventi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T14:27:41.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T14:27:41.123Z"
             },
             {
               "$type": "Document",
@@ -57,7 +60,7 @@
               "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Vista.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Vista.cs",
               "RelativeToolTip": "Eser_Eventi\\Models\\Vista.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAACkAAAAUAAAA",
+              "ViewState": "AQIAAPoCAAAAAAAAAAAuwAEDAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T09:04:56.656Z",
               "EditorCaption": ""
@@ -72,13 +75,12 @@
               "RelativeToolTip": "Eser_Eventi\\Models\\EserEventiContext.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T09:04:24.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-23T09:04:24.678Z"
             }
           ]
         },
         {
-          "DockedWidth": 238,
+          "DockedWidth": 168,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -89,33 +91,33 @@
               "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Evento.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Evento.cs",
               "RelativeToolTip": "Eser_Eventi\\Models\\Evento.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBEAAAAXAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T10:29:17.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Partecipante.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Partecipante.cs",
               "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Partecipante.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Partecipante.cs",
               "RelativeToolTip": "Eser_Eventi\\Models\\Partecipante.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA0AAAAbAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T10:20:04.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Risorsa.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Risorsa.cs",
               "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Risorsa.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Risorsa.cs",
               "RelativeToolTip": "Eser_Eventi\\Models\\Risorsa.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T09:33:01.786Z",
               "EditorCaption": ""

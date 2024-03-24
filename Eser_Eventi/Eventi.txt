@@ -1,0 +1,10 @@
+IdEvento: 1 Nome: SAGRA DELLA PORCHETTA Descrizione: PORCHETTA A NON FINIRE Capacità : 120 Data: 10/11/2024 00:00:00 Luogo : ARICCIA
+IdEvento: 2 Nome: SAGRA DEL CARCIOFO Descrizione: MOLTO BELLA Capacità : 2000 Data: 22/01/2024 00:00:00 Luogo : MONTEPORZIO
+IdEvento: 3 Nome: SAGRA DEL VINO Descrizione: BELLA Capacità : 3000 Data: 12/11/2024 00:00:00 Luogo : MARINO
+PartecipanteID: 3 Nome: Fabiola di Manno Contatto: 345667356 Biglietto: AR123 
+PartecipanteID: 4 Nome: Serena Bortone Contatto: 12214124 Biglietto: AR1234 
+PartecipanteID: 5 Nome: ANDREA ANSELMI Contatto: 348865239862 Biglietto: FF321 
+RisorsaID: 1 Quantità: 10 Tipo: ATTREZZATURA Costo: 22,50 Fornitore: LUCI SPA 
+RisorsaID: 2 Quantità: 10 Tipo: PANINO Costo: 3,50 Fornitore: PANINOTECA SPA 
+RisorsaID: 3 Quantità: 22 Tipo: BIRRA Costo: 4,50 Fornitore: BIRRERIA SPA 
+RisorsaID: 4 Quantità: 22 Tipo: LUCI Costo: 11,50 Fornitore: LUCI DA ARMANDO 
