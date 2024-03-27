@@ -405,15 +405,12 @@ namespace Eser_Eventi.Models
                     foreach (Evento e in ctx.Eventos.ToList())
                     {
                         Console.WriteLine($"IdEvento: {e.EventoId} Nome: {e.Nome} Descrizione: {e.Descrizione} Capacità : {e.Capacita} Data: {e.DataOra} Luogo : {e.Luogo}");
-
                     }
-
                 }
                 catch (Exception ex)
                 {
                     Console.WriteLine(ex.Message);
                 }
-
             }
         }
         #endregion

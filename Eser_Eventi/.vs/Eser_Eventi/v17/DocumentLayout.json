@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\vista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\risorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\risorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\esereventicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\esereventicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\partecipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +19,12 @@
       "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\esereventicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\esereventicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_eventi\\eser_eventi\\models\\risorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F4EE1D-8AD1-490D-85DA-3BA547C8D71E}|Eser_Eventi\\Eser_Eventi.csproj|solutionrelative:eser_eventi\\models\\risorsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,16 +33,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 438,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 500,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Program.cs",
               "RelativeDocumentMoniker": "Eser_Eventi\\Program.cs",
@@ -50,7 +46,8 @@
               "RelativeToolTip": "Eser_Eventi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T14:27:41.123Z"
+              "WhenOpened": "2024-03-22T14:27:41.123Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,32 +57,46 @@
               "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Vista.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Vista.cs",
               "RelativeToolTip": "Eser_Eventi\\Models\\Vista.cs",
-              "ViewState": "AQIAAPoCAAAAAAAAAAAuwAEDAAARAAAA",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAuwMYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T09:04:56.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "EserEventiContext.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\EserEventiContext.cs",
               "RelativeDocumentMoniker": "Eser_Eventi\\Models\\EserEventiContext.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\EserEventiContext.cs",
               "RelativeToolTip": "Eser_Eventi\\Models\\EserEventiContext.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T09:04:24.678Z"
+              "WhenOpened": "2024-03-23T09:04:24.678Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 168,
+          "DockedWidth": 106,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Partecipante.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Partecipante.cs",
+              "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Partecipante.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Partecipante.cs",
+              "RelativeToolTip": "Eser_Eventi\\Models\\Partecipante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T10:20:04.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Evento.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Evento.cs",
               "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Evento.cs",
@@ -98,26 +109,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Partecipante.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Partecipante.cs",
-              "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Partecipante.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Partecipante.cs",
-              "RelativeToolTip": "Eser_Eventi\\Models\\Partecipante.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T10:20:04.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Risorsa.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Risorsa.cs",
               "RelativeDocumentMoniker": "Eser_Eventi\\Models\\Risorsa.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Eventi\\Eser_Eventi\\Models\\Risorsa.cs",
               "RelativeToolTip": "Eser_Eventi\\Models\\Risorsa.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-23T09:33:01.786Z",
               "EditorCaption": ""

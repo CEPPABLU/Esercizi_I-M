@@ -1,0 +1,33 @@
+﻿ <Window x:Class="Eser_Merc.Models.Ordine"
+
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+        xmlns:local="clr-namespace:Eser_Merc"
+
+        mc:Ignorable="d"
+
+        Title="Ordine" Height="450" Width="800">
+
+    <Grid>
+
+        <StackPanel >
+
+            <Label>Menu</Label>
+
+            <Button x:Name="btnHomepg" Click="btnOrdini_Click">HOMEPAGE</Button>
+
+            <Button x:Name="btnUtente1" Click="btnUtente1_Click">GESTIONE UTENTE</Button>
+
+            <Button x:Name="btnProdotti11">GESTIONE PRODOTTI</Button>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>
