@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eser_Merc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac299263d71568bcf626a3bbaf8725df22459192")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0199132239a409c7a218e7d249c30069d1eeb8d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eser_Merc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eser_Merc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

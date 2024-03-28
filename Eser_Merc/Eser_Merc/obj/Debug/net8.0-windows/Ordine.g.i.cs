@@ -77,7 +77,7 @@ namespace Eser_Merc.Models {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Eser_Merc;component/ordine.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Eser_Merc;V1.0.0.0;component/ordine.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Ordine.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
