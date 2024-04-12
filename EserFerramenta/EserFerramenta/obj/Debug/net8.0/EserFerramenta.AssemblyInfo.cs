@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EserFerramenta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a6223e53ee5f1949a0fc7d7160d7e93fcf567c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9338287431151c1bb8f57b123b035837c0ee1e79")]
 [assembly: System.Reflection.AssemblyProductAttribute("EserFerramenta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EserFerramenta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

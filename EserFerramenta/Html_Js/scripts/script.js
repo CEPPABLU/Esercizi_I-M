@@ -18,7 +18,7 @@ const stampaTabella = () => {
                             <button class="btn btn-secondary" type="button" id="increment">+</button>
                             </td>
                             <td>${item.categoria}</td>
-                            <td>${item.data}</td>
+                            <td>${item.data_aggiunta}</td>
                             <td>
                                 <button class="btn btn-warning" onclick="modifica('${item.codice}')">Modifica</button>
                             </td>
@@ -81,11 +81,11 @@ const salvaElemento = () => {
             contentType: "application/json",
             dataType: "json",
             success: function(){
-                alert("Stappooooo");
+                alert("Riuscito");
                 stampaTabella();
             },
             error: function(errore){
-                alert("Errore");
+                alert("Molto Mario");
                 console.log(errore);
             }
         

@@ -1,0 +1,23 @@
+DROP TABLE IF EXISTS Personaggio
+DROP TABLE IF EXISTS Squadra
+
+CREATE TABLE Squadra(
+	squadraID INT PRIMARY KEY IDENTITY(1,1),
+	codiceS VARCHAR(250),
+	nomeS VARCHAR(250) NOT NULL UNIQUE,
+	budget INT NOT NULL
+)
+
+CREATE TABLE Personaggio(
+	personaggioID INT PRIMARY KEY IDENTITY (1,1),
+	codiceP VARCHAR(250),
+	nomeP VARCHAR(250) NOT NULL UNIQUE,
+	categoria VARCHAR(250) NOT NULL,
+	costo int,
+	squadraRIF INT,
+	FOREIGN KEY (squadraRIF) REFERENCES Squadra(squadraID) ON DELETE SET NULL
+)
+
+SELECT * FROM Personaggio
+SELECT * FROM Squadra
+ 

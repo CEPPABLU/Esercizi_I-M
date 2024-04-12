@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EserEsa", "EserEsa\EserEsa.csproj", "{E8502582-7B47-45BF-9321-3E40F6C41DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8502582-7B47-45BF-9321-3E40F6C41DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8502582-7B47-45BF-9321-3E40F6C41DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8502582-7B47-45BF-9321-3E40F6C41DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8502582-7B47-45BF-9321-3E40F6C41DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06EFB0B8-799C-4A9E-8C71-BB62363FD29D}
+	EndGlobalSection
+EndGlobal

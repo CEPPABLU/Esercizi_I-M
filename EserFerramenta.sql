@@ -1,3 +1,5 @@
+USE eser_merc03
+
 CREATE TABLE Prodotto(
 	prodottoID INT PRIMARY KEY IDENTITY(1,1),
 	codice VARCHAR(250) NOT NULL DEFAULT NEWID(),

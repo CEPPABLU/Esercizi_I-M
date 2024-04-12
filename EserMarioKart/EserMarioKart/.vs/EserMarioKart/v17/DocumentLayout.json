@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\controllers\\personaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\controllers\\personaggiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\repos\\squadrarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\repos\\squadrarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\models\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\models\\personaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\models\\personaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\dto\\squadradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\dto\\squadradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\services\\squadraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\services\\squadraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\controllers\\squadracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\controllers\\squadracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\services\\personaggioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\services\\personaggioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\dto\\personaggiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\dto\\personaggiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\repos\\personaggiorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\repos\\personaggiorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\models\\mariokartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\models\\mariokartcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|c:\\users\\utente\\desktop\\esercitazioni\\esermariokart\\esermariokart\\esermariokart\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{690FEEFC-FFD2-4D0A-B83A-AE5E4ED965F0}|EserMarioKart\\EserMarioKart.csproj|solutionrelative:esermariokart\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SquadraService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Services\\SquadraService.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Services\\SquadraService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Services\\SquadraService.cs",
+              "RelativeToolTip": "EserMarioKart\\Services\\SquadraService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:40:03.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SquadraDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\DTO\\SquadraDTO.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\DTO\\SquadraDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\DTO\\SquadraDTO.cs",
+              "RelativeToolTip": "EserMarioKart\\DTO\\SquadraDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:41:46.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personaggio.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Models\\Personaggio.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Models\\Personaggio.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Models\\Personaggio.cs",
+              "RelativeToolTip": "EserMarioKart\\Models\\Personaggio.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:39:47.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Squadra.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Models\\Squadra.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Models\\Squadra.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Models\\Squadra.cs",
+              "RelativeToolTip": "EserMarioKart\\Models\\Squadra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:39:26.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquadraRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Repos\\SquadraRepo.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Repos\\SquadraRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Repos\\SquadraRepo.cs",
+              "RelativeToolTip": "EserMarioKart\\Repos\\SquadraRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:07:32.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaggioController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Controllers\\PersonaggioController.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Controllers\\PersonaggioController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Controllers\\PersonaggioController.cs",
+              "RelativeToolTip": "EserMarioKart\\Controllers\\PersonaggioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:40:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SquadraController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Controllers\\SquadraController.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Controllers\\SquadraController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Controllers\\SquadraController.cs",
+              "RelativeToolTip": "EserMarioKart\\Controllers\\SquadraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:40:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonaggioService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Services\\PersonaggioService.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Services\\PersonaggioService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Services\\PersonaggioService.cs",
+              "RelativeToolTip": "EserMarioKart\\Services\\PersonaggioService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:38:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonaggioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\DTO\\PersonaggioDTO.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\DTO\\PersonaggioDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\DTO\\PersonaggioDTO.cs",
+              "RelativeToolTip": "EserMarioKart\\DTO\\PersonaggioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:42:00.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Repos\\IRepo.cs",
+              "RelativeToolTip": "EserMarioKart\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:26:23.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonaggioRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Repos\\PersonaggioRepo.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Repos\\PersonaggioRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Repos\\PersonaggioRepo.cs",
+              "RelativeToolTip": "EserMarioKart\\Repos\\PersonaggioRepo.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwFYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:07:56.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MarioKartContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Models\\MarioKartContext.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Models\\MarioKartContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Models\\MarioKartContext.cs",
+              "RelativeToolTip": "EserMarioKart\\Models\\MarioKartContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:37:03.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Program.cs",
+              "RelativeDocumentMoniker": "EserMarioKart\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\Program.cs",
+              "RelativeToolTip": "EserMarioKart\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:27:25.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\appsettings.json",
+              "RelativeDocumentMoniker": "EserMarioKart\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\appsettings.json",
+              "RelativeToolTip": "EserMarioKart\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T12:23:46.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EserMarioKart\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\EserMarioKart\\EserMarioKart\\EserMarioKart\\appsettings.Development.json",
+              "RelativeToolTip": "EserMarioKart\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T12:23:51.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

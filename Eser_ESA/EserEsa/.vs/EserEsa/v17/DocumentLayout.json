@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\models\\esacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\models\\esacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\controllers\\oggettocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\controllers\\oggettocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\repos\\oggettorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\repos\\oggettorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\services\\oggettoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\services\\oggettoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\repos\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\repos\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\services\\sistemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\services\\sistemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_esa\\eseresa\\eseresa\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8502582-7B47-45BF-9321-3E40F6C41DDE}|EserEsa\\EserEsa.csproj|solutionrelative:eseresa\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Controllers\\SistemaController.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Controllers\\SistemaController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Controllers\\SistemaController.cs",
+              "RelativeToolTip": "EserEsa\\Controllers\\SistemaController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:17:57.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EsaContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Models\\EsaContext.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Models\\EsaContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Models\\EsaContext.cs",
+              "RelativeToolTip": "EserEsa\\Models\\EsaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:42:14.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OggettoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Controllers\\OggettoController.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Controllers\\OggettoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Controllers\\OggettoController.cs",
+              "RelativeToolTip": "EserEsa\\Controllers\\OggettoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:15:56.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Program.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Program.cs",
+              "RelativeToolTip": "EserEsa\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:57:03.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OggettoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Repos\\OggettoRepo.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Repos\\OggettoRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Repos\\OggettoRepo.cs",
+              "RelativeToolTip": "EserEsa\\Repos\\OggettoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:46:40.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SistemaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Repos\\SistemaRepo.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Repos\\SistemaRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Repos\\SistemaRepo.cs",
+              "RelativeToolTip": "EserEsa\\Repos\\SistemaRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:46:23.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OggettoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Services\\OggettoService.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Services\\OggettoService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Services\\OggettoService.cs",
+              "RelativeToolTip": "EserEsa\\Services\\OggettoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:59:46.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Repos\\IRepo.cs",
+              "RelativeToolTip": "EserEsa\\Repos\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:44:57.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SistemaService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Services\\SistemaService.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Services\\SistemaService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Services\\SistemaService.cs",
+              "RelativeToolTip": "EserEsa\\Services\\SistemaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:02:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OggettoCeleste.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Models\\OggettoCeleste.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Models\\OggettoCeleste.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Models\\OggettoCeleste.cs",
+              "RelativeToolTip": "EserEsa\\Models\\OggettoCeleste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:31:24.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Models\\Sistema.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Models\\Sistema.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Models\\Sistema.cs",
+              "RelativeToolTip": "EserEsa\\Models\\Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T12:31:42.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "EserEsa\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Services\\IService.cs",
+              "RelativeToolTip": "EserEsa\\Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:14:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EserEsa\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\appsettings.Development.json",
+              "RelativeToolTip": "EserEsa\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T14:58:01.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EserEsa\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EserEsa\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T14:58:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\appsettings.json",
+              "RelativeDocumentMoniker": "EserEsa\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_ESA\\EserEsa\\EserEsa\\appsettings.json",
+              "RelativeToolTip": "EserEsa\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T14:58:10.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\utente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\utente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\ordine.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\ordine.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\utente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\utente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,28 +27,12 @@
       "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\prodotto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\ordine.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\ordine.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\utente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\utente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\ordine.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\ordine.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|solutionrelative:eser_merc\\dal\\prodottodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01BF0B58-8E9E-41DD-AE73-3E8041E6A24D}|Eser_Merc\\Eser_Merc.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_merc\\eser_merc\\dal\\ordinedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,31 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Eser_Merc\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Eser_Merc\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:17:36.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordine.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Ordine.xaml.cs",
+              "RelativeDocumentMoniker": "Eser_Merc\\Ordine.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Ordine.xaml.cs",
+              "RelativeToolTip": "Eser_Merc\\Ordine.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:45:24.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Utente.xaml.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Utente.xaml.cs",
               "RelativeDocumentMoniker": "Eser_Merc\\Utente.xaml.cs",
@@ -75,31 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Ordine.xaml",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Ordine.xaml",
-              "RelativeDocumentMoniker": "Eser_Merc\\Ordine.xaml",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Ordine.xaml*",
-              "RelativeToolTip": "Eser_Merc\\Ordine.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-27T16:25:16.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Utente.xaml",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Utente.xaml",
-              "RelativeDocumentMoniker": "Eser_Merc\\Utente.xaml",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Utente.xaml",
-              "RelativeToolTip": "Eser_Merc\\Utente.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-27T16:25:49.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ProdottoDAL.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\DAL\\ProdottoDAL.cs",
               "RelativeDocumentMoniker": "Eser_Merc\\DAL\\ProdottoDAL.cs",
@@ -107,58 +107,51 @@
               "RelativeToolTip": "Eser_Merc\\DAL\\ProdottoDAL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T16:36:54.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T16:36:54.417Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Eser_Merc\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Eser_Merc\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T13:17:36.544Z",
-              "EditorCaption": ""
+              "Title": "Utente.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Utente.xaml",
+              "RelativeDocumentMoniker": "Eser_Merc\\Utente.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Utente.xaml",
+              "RelativeToolTip": "Eser_Merc\\Utente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T16:25:49.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Ordine.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Ordine.xaml",
+              "RelativeDocumentMoniker": "Eser_Merc\\Ordine.xaml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Ordine.xaml",
+              "RelativeToolTip": "Eser_Merc\\Ordine.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T16:25:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Eser_Merc\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\MainWindow.xaml",
               "RelativeToolTip": "Eser_Merc\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-27T13:17:39.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T13:17:39.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Prodotto.xaml",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Prodotto.xaml",
               "RelativeDocumentMoniker": "Eser_Merc\\Prodotto.xaml",
               "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Prodotto.xaml",
               "RelativeToolTip": "Eser_Merc\\Prodotto.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-27T16:25:36.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ordine.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Ordine.xaml.cs",
-              "RelativeDocumentMoniker": "Eser_Merc\\Ordine.xaml.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Merc\\Eser_Merc\\Ordine.xaml.cs",
-              "RelativeToolTip": "Eser_Merc\\Ordine.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T16:45:24.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T16:25:36.223Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,6 @@
+@EserMarioKart_HostAddress = http://localhost:5268
+
+GET {{EserMarioKart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

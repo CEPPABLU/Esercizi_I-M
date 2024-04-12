@@ -19,5 +19,5 @@ public partial class Prodotto
 
     public string Categoria { get; set; } = null!;
 
-    public DateOnly? DataCreazione { get; set; }
+    public DateOnly? DataCreazione { get; set; } = DateOnly.FromDateTime(DateTime.Now);
 }
