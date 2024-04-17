@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_impiegato\\eser_impiegato\\eser_impiegato\\views\\impiegato\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|solutionrelative:eser_impiegato\\views\\impiegato\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_impiegato\\eser_impiegato\\eser_impiegato\\views\\impiegato\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|solutionrelative:eser_impiegato\\views\\impiegato\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_impiegato\\eser_impiegato\\eser_impiegato\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|solutionrelative:eser_impiegato\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_impiegato\\eser_impiegato\\eser_impiegato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|solutionrelative:eser_impiegato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_impiegato\\eser_impiegato\\eser_impiegato\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|solutionrelative:eser_impiegato\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_impiegato\\eser_impiegato\\eser_impiegato\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|solutionrelative:eser_impiegato\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_impiegato\\eser_impiegato\\eser_impiegato\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|solutionrelative:eser_impiegato\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|c:\\users\\utente\\desktop\\esercitazioni\\eser_impiegato\\eser_impiegato\\eser_impiegato\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C27268A6-205C-4015-BAC3-D76018B87CFB}|Eser_Impiegato\\Eser_Impiegato.csproj|solutionrelative:eser_impiegato\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eser_Impiegato\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eser_Impiegato\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:47:49.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\appsettings.json",
+              "RelativeDocumentMoniker": "Eser_Impiegato\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\appsettings.json",
+              "RelativeToolTip": "Eser_Impiegato\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T10:20:38.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Views\\Impiegato\\Lista.cshtml",
+              "RelativeDocumentMoniker": "Eser_Impiegato\\Views\\Impiegato\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Views\\Impiegato\\Lista.cshtml",
+              "RelativeToolTip": "Eser_Impiegato\\Views\\Impiegato\\Lista.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:06:25.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImpiegatoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Controllers\\ImpiegatoController.cs",
+              "RelativeDocumentMoniker": "Eser_Impiegato\\Controllers\\ImpiegatoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Controllers\\ImpiegatoController.cs",
+              "RelativeToolTip": "Eser_Impiegato\\Controllers\\ImpiegatoController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwB8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:55:20.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "Eser_Impiegato\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "Eser_Impiegato\\Repositories\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:41:13.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImpiegatoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Services\\ImpiegatoService.cs",
+              "RelativeDocumentMoniker": "Eser_Impiegato\\Services\\ImpiegatoService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Services\\ImpiegatoService.cs",
+              "RelativeToolTip": "Eser_Impiegato\\Services\\ImpiegatoService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:46:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Program.cs",
+              "RelativeDocumentMoniker": "Eser_Impiegato\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Program.cs",
+              "RelativeToolTip": "Eser_Impiegato\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:46:51.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inserimento.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Views\\Impiegato\\Inserimento.cshtml",
+              "RelativeDocumentMoniker": "Eser_Impiegato\\Views\\Impiegato\\Inserimento.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\Esercitazioni\\Eser_Impiegato\\Eser_Impiegato\\Eser_Impiegato\\Views\\Impiegato\\Inserimento.cshtml",
+              "RelativeToolTip": "Eser_Impiegato\\Views\\Impiegato\\Inserimento.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T10:31:58.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
